@@ -16,10 +16,8 @@ html {
   overflow-x: hidden;
   margin: 0;
   padding: 0;
-  background: #e5cdff;
+  background: #fff;
 }
-
-
 
 @layer base {
   :root {
@@ -76,8 +74,6 @@ html {
     --chart-5: 340 75% 55%;
   }
 }
-
-
 
 @layer base {
   * {
